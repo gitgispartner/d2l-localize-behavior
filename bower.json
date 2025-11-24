@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "app-localize-behavior": "1 - 2",
-    "d2l-intl-import": "^1.0.0",
+    "d2l-intl-import": "https://github.com/gitgispartner/d2l-intl-import.git",
     "polymer": "1 - 2"
   },
   "devDependencies": {
